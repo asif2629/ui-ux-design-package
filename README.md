@@ -18,3 +18,12 @@ View your app in AI Studio: https://ai.studio/apps/a36ce5ab-f973-4af4-9e6f-61248
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+## Combined HTML/CSS/JS export
+
+A single-file version of the package landing page is available at:
+
+- `combined-ui-ux-package.html`
+
+Open it directly in any browser (no build step required).
